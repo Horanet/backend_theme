@@ -1,0 +1,3 @@
+include odoo/addons/backend_theme_v11/static/src/*/*
+include odoo/addons/backend_theme_v11/static/description/*
+include odoo/addons/backend_theme_v11/views/*.xml
